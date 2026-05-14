@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erica-d-lee&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=erica-d-lee&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ![React](https://img.shields.io/badge/-React-3fcbd1) ![Vue](https://img.shields.io/badge/-Vue-%2341B883) ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6) ![Next.js](https://img.shields.io/badge/-Next.js-222222) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00dc82) <br>[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leedmeen@gmail.com)](mailto:leedmeen@gmail.com) <a href="https://di-story.tistory.com"><img src="https://img.shields.io/badge/-Tistory-4F1F12" /></a>
 
